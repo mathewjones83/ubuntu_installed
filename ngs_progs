@@ -2,3 +2,5 @@ fastqc
 novoalign
 samtools
 bwa
+trimmomatic
+
